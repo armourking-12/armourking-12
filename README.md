@@ -1,7 +1,9 @@
 ## Hi, there Vishal Mishra 👋
 <h1> I am developing new website of groceries</h1>
 <h2>Iam currently learning JAVA</h2>
-![Android Illustration](https://www.freepik.com/free-photos-vectors/android-illustration)<!--
+<img src="https://www.freepik.com/free-photos-vectors/android-illustration"/>
+
+<--
 **armourking-12/armourking-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
